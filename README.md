@@ -1,18 +1,30 @@
-# Bravo_Dev_Ballard
+# amazing travels
+> a blog about travel 
+
 # APP identity
 Amazing Travels
-#Authorship + version 
-Author Johnathan Ballard
-Version 1.0
-Project Dev Bravo
-CIS 376 Web Development
-Amazing Travels site
-With travel trip plans 
-version 09/21/2026
+
+# Authorship + version 
+- Author Johnathan Ballard
+- Version 1.0
+- Project Dev Bravo
+- CIS 376 Web Development
+- Amazing Travels site
+- With travel trip plans 
+- version 09/21/2026
+
+author: your name | project: dev|bravo | version: 0.2 | date: YYYY-MM-DD
+
 # User Story
 As a user, this website has given me great ideas for traveling.
 I want to be able to see more places and have tours in the future
 So I can explore more places and get a better travel experience
+
+- **As a** travel enthusiast 
+- **I want** get ideas for places...
+- **So that** can plan to visit them 
+
+
 # Narrative
 This site is a travel website planning trips and showing many different trips and itineraries of all sizes.
 I decided to make my website about traveling and different trips. I am starting within the US but might expand.
@@ -27,6 +39,11 @@ The App works but has low functionality
 It can only take users to the main page and login
 Can users find trips
 The user can only view a couple of trip ideas; that is it
+
+
+- [ ] 🧪 can user find an idea for a trip 
+- [ ] ✅ yes, they have a place 
+- [ ] ❌ no, they don't s
 
 # Technology Stack
 I created two HTML documents: one with HTML and a second with a login

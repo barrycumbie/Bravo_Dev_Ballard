@@ -28,7 +28,7 @@ console.log('hard code pwd: ', hardCodePwd);
     console.log('signed in');
     sessionStorage.setItem('signedIn', 'true');
     // sessionStorage.setItem('signedIn', '');
-    window.location.href = 'index.html'
+    window.location.href = '../index.html'
   }
   else{
     console.log('NOT signed in');

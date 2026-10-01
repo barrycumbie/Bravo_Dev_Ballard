@@ -8,7 +8,7 @@ if(signedIn === 'true'){
 }
 else{
     console.log('no, not signed in');
-    window.location.href = 'signin.html'
+    window.location.href = 'pages/signin.html'
 
 }
 
